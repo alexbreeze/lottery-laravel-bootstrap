@@ -1,0 +1,9 @@
+#div-tip{
+	display: none;
+}
+#div-content{
+	display: none;
+}
+#span-count,#span-tip{
+	color:red;
+}
